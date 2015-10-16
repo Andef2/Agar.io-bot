@@ -21,8 +21,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        Fresh Chicken
+// @namespace   Fresh Chicken
 // @include     http://agar.io/*
 // @version     3.645
 // @grant       none
